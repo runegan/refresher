@@ -12,3 +12,8 @@ Press the "R" button to refresh the scriptFile
 - Place `refresher.jsx` in the `ScriptUI Panels` Folder.
 - (Re)start After Effects.
 - Run from `Window` menu.
+
+## How to use
+
+- Press the `...` button to select a script file to run.
+- Press the `R` button to refresh the scriptFile
